@@ -1,0 +1,16 @@
+dal\impl\ContributionDaoImpl.class
+dao\Event.class
+dataBase\DbTableEditor.class
+dal\ContributionDao.class
+dao\RegularEvent.class
+dal\EventDao.class
+logic\MainLogic.class
+dataBase\DbTableCreator.class
+dal\impl\EventDaoImpl.class
+dal\ResourceDao.class
+dal\impl\RegularEventDaoImpl.class
+dao\Contribution.class
+dal\RegularEventDao.class
+dao\Resource.class
+controller\ResourceController.class
+dal\impl\ResourceDaoImpl.class
